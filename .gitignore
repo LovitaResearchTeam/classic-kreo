@@ -1,0 +1,7 @@
+.venv*
+__pycache__/
+*.rdb
+test*
+.chain_cookie
+ecosystem.config.js
+settings/

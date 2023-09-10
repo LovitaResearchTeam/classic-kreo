@@ -1,0 +1,7 @@
+LEVERAGE = 5
+INJECTIVE_NETWORK = "local" # can be mainnet, local or costum host(eg: 127.0.0.1)
+POST_ONLY = True
+MIN_ORDER_TETHER = 1000
+RISK_ORDER_TETHER = 1010
+RISK_ORDER_NO = 2
+FIRST_ORDER_MULTIPLIER = 3
